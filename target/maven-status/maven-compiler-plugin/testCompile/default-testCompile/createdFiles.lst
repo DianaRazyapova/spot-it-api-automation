@@ -1,0 +1,7 @@
+subscribe/SubscribeTests.class
+rules/RulesTests.class
+events/EventsTests.class
+equipments/EquipmentsTests.class
+user/UserCreatingTests.class
+locations/LocationsTests.class
+auth/LoginUserTests.class
